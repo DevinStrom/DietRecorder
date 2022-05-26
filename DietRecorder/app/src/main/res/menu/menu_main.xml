@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.devin.project4_v5.MainActivity">
+    <item
+        android:id="@+id/sample_meat_diet"
+        android:title="Sample Meat Diet" />
+    <item
+        android:id="@+id/sample_veg_diet"
+        android:orderInCategory="100"
+        android:title="Sample Vegetarian Diet"
+        app:showAsAction="never" />
+</menu>

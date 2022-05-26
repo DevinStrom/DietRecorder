@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Diet Recorder</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Diet Recorder</string>
+    <string name="second_fragment_label">Diet Recorder</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="send_message">Send Message</string>
+    <string name="lookup_item">Lookup Item</string>
+    <string name="food">food</string>
+    <string name="record_item">Record Item</string>
+    <string name="textview">textView</string>
+    <string name="remove_item">Remove Item</string>
+    <string name="view_items">View Items</string>
+    <string name="diet_recorder">Diet Recorder</string>
+    <string name="background_image_tomatoes">background image tomatoes</string>
+    <string name="background_image_pizza">background image pizza</string>
+    <string name="enter_food">enter food</string>
+    <string name="food_label">Food Label</string>
+    <string name="calories">Calories</string>
+    <string name="fat">Fat</string>
+    <string name="dietary_fiber">Dietary Fiber</string>
+    <string name="carbohydrate">Carbohydrate</string>
+    <string name="food_image">food image</string>
+    <string name="food_background">food background</string>
+    <string name="background_image">background image</string>
+    <string name="pizza_background_image">pizza background image</string>
+    <string name="broccoli_background_image">broccoli background image</string>
+    <string name="calories_colon">Calories:</string>
+    <string name="fat_colon">Fat:</string>
+    <string name="dietary_fiber_colon">Dietary Fiber:</string>
+    <string name="carbohydrate_colon">Carbohydrate:</string>
+</resources>
